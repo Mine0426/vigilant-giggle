@@ -1,0 +1,510 @@
+[16:49:36] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.18.2
+[16:49:37] [ForkJoinPool-1-worker-4/WARN]: The mod "accessories_compat_layer" contains invalid entries in its mod json:
+- Unsupported root entry "#COMMENT_breaks" at line 53 column 20
+[16:49:37] [ForkJoinPool-1-worker-3/WARN]: The mod "takesapillage" contains invalid entries in its mod json:
+- Unsupported root entry "mc-publish" at line 51 column 17
+[16:49:37] [main/INFO]: Loading 179 mods:
+	- accessories 1.1.0-beta.53+1.21.1
+	- accessories_compat_layer 0.1.12
+	   \-- mixinsquared 0.3.4
+	- advancednetherite 2.3.1-1.21.1
+	- ali 1.7.2
+	- animal_feeding_trough 1.1.2+1.21.1
+	- appleskin 3.0.6+mc1.21
+	- architectury 13.0.8
+	- balm 21.0.56
+	   \-- kuma_api 21.0.7
+	- beekeeperhut 3.0.2
+	- betteradvancements 0.4.3.21
+	- betterdays 3.3.6.2
+	   \-- whitenoise 2.0.7
+	        |-- com_electronwill_night-config_core 3.8.3
+	        \-- com_electronwill_night-config_toml 3.8.3
+	- betterdeserttemples 1.21.1-Fabric-4.1.5
+	   \-- org_reflections_reflections 0.10.2
+	- betterdungeons 1.21.1-Fabric-5.1.4
+	   \-- org_reflections_reflections 0.10.2
+	- betterendisland 1.21.1-Fabric-3.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- betterfortresses 1.21.1-Fabric-3.1.5
+	   \-- org_reflections_reflections 0.10.2
+	- betterjungletemples 1.21.1-Fabric-3.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- bettermineshafts 1.21.1-Fabric-5.1.1
+	   \-- org_reflections_reflections 0.10.2
+	- betteroceanmonuments 1.21.1-Fabric-4.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- betterstrongholds 1.21.1-Fabric-5.1.3
+	   \-- org_reflections_reflections 0.10.2
+	- bettervillage 3.3.1
+	- betterwitchhuts 1.21.1-Fabric-4.1.1
+	   \-- org_reflections_reflections 0.10.2
+	- carryon 2.2.4
+	- cavedust 3.0.1
+	   \-- kirin 1.20.0+1.21
+	- charmofundying 9.1.0+1.21.1
+	   \-- spectrelib 0.17.2+1.21
+	- chunky 1.4.23
+	- cloth-config 15.0.140
+	   \-- cloth-basic-math 0.6.1
+	- comforts 9.0.5+1.21.1
+	   |-- cardinal-components-base 6.1.2
+	   |-- cardinal-components-entity 6.1.2
+	   \-- spectrelib 0.17.2+1.21
+	- cristellib 3.0.2
+	   \-- blue_endless_jankson 1.2.3
+	- disenchanting_table 5.0.2
+	- easyanvils 21.1.0
+	- easymagic 21.1.4
+	- elytraslot 9.0.1+1.21.1
+	- entityculling 1.9.5
+	   |-- transition 1.0.11
+	   \-- trender 1.0.10
+	- explorerscompass 1.21.1-2.2.5-fabric
+	- fabric-api 0.116.8+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.71+b559734419
+	   |-- fabric-biome-api-v1 13.0.31+d527f9fd19
+	   |-- fabric-block-api-v1 1.1.0+0bc3503219
+	   |-- fabric-block-view-api-v2 1.0.11+ebb2264e19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.19+b559734419
+	   |-- fabric-convention-tags-v1 2.1.6+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.11.2+fa89716719
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.4.6+5b36e0f719
+	   |-- fabric-data-generation-api-v1 20.2.35+37516cd619
+	   |-- fabric-dimensions-v1 4.0.1+65213ef819
+	   |-- fabric-entity-events-v1 1.8.0+2b27e0a419
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.2.0+3b3cb2e819
+	   |-- fabric-item-group-api-v1 4.1.7+def88e3a19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.6.0+0865547519
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.14+8aaf3aca19
+	   |-- fabric-model-loading-api-v1 2.1.0+b4d813fc19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.15+2475392c19
+	   |-- fabric-registry-sync-v0 5.3.1+e3eddc2119
+	   |-- fabric-renderer-api-v1 3.4.1+b4d813fc19
+	   |-- fabric-renderer-indigo 1.7.1+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.69+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.49+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.72+df3654b319
+	   |-- fabric-rendering-v1 5.1.0+ab4c25a019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.90+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.3+c24bd99419
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
+	- fabric-language-kotlin 1.13.9+kotlin.2.3.10
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.3.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.3.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.3.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.3.10
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.31.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.8.2
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.8.2
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.10.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.10.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.10.0
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- fallingtree 1.21.1.11
+	- ferritecore 7.0.3
+	- flowerymooblooms 3.0.2
+	- forgeconfigapiport 21.1.6
+	- friendsandfoes 4.0.19
+	- geckolib 4.8.3
+	- gravestones 1.2.10
+	- hangglider 21.1.0
+	- iceberg 1.3.2
+	- immersivelanterns 1.0.6
+	- inventorymanagement 1.6.0
+	- jamlib 1.3.5+1.21.1
+	   \-- blue_endless_jankson 1.2.3
+	- java 21
+	- jei 19.27.0.340
+	- jumpoverfences 1.6.1
+	- libraryferret 4.0.0
+	- lithium 0.15.2+mc1.21.1
+	- lithostitched 1.5.7
+	- mcwlights 1.1.5
+	- minecraft 1.21.1
+	- modernfix 5.25.1+mc1.21.1
+	- monolib 2.1.0
+	- mr_dungeons_andtaverns 1-v4.4.4
+	- mr_ly_veinminerenchantment 1-v1.0.4
+	- mr_smelting_enchantment 1-v1.1.0
+	- naturescompass 1.21.1-2.2.7-fabric
+	- noisium 2.7.0+mc1.21-1.21.1
+	- owo 0.12.15.4+1.21
+	   |-- io_wispforest_endec 0.1.5.1
+	   |-- io_wispforest_endec_gson 0.1.3.1
+	   |-- io_wispforest_endec_jankson 0.1.3.1
+	   \-- io_wispforest_endec_netty 0.1.2
+	- patchouli 1.21.1-92-FABRIC
+	   \-- fiber 0.23.0-2
+	- pfm 1.4.4
+	- placeholder-api 2.4.2+1.21
+	- pneumonocore 1.2.1
+	- puzzleslib 21.1.39
+	- resourcefullib 3.0.12
+	   |-- com_teamresourceful_bytecodecs 1.1.2
+	   \-- com_teamresourceful_yabn 1.0.3
+	- rightclickharvest 4.6.1+1.21.1
+	- skinlayers3d 1.10.1
+	   |-- transition 1.0.11
+	   \-- trender 1.0.10
+	- sophisticatedbackpacks 1.21.1-3.23.4.3.106
+	- sophisticatedcore 1.21.1-1.2.9.21.168
+	   |-- porting_lib_conditions 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_core 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_fluids 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_item_abilities 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_lazy_registration 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_level_events 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_loot 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_model_loader 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_render_types 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_transfer 3.1.0-beta.47+1.21.1
+	   \-- team_reborn_energy 4.1.0
+	- sophisticatedstorage 1.21.1-1.3.7.9.139
+	- sound_physics_remastered 1.21.1-1.5.1
+	- t_and_t 1.13.7
+	- takesapillage 1.0.10
+	- tectonic 3.0.19
+	- terrablender 4.1.0.8
+	- terralith 2.5.8
+	- trinkets 3.10.0
+	- txnilib 1.0.24
+	- visualworkbench 21.1.1
+	- waystones 21.1.25
+	- yet_another_config_lib_v3 3.8.2+1.21.1-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+	- yungsapi 1.21.1-Fabric-5.1.6
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+[16:49:37] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/vigilant-giggle/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[16:49:37] [main/INFO]: Compatibility level set to JAVA_17
+[16:49:37] [main/INFO]: Compatibility level set to JAVA_21
+[16:49:38] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:49:38] [main/WARN]: Reference map 'friendsandfoes.refmap.json' for friendsandfoes-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:49:38] [main/WARN]: Reference map 'friendsandfoes.refmap.json' for friendsandfoes-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:49:38] [main/WARN]: Reference map 'hangglider.fabric.refmap.json' for hangglider.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:49:38] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+[16:49:38] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[16:49:38] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+[16:49:38] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[16:49:38] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[16:49:38] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[16:49:38] [main/INFO]: Loaded configuration file for Lithium: 150 options available, 0 override(s) found
+[16:49:38] [main/INFO]: Loaded configuration file for ModernFix 5.25.1+mc1.21.1: 65 options available, 0 override(s) found
+[16:49:38] [main/INFO]: Applying Nashorn fix
+[16:49:38] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:49:38] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:49:38] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:49:38] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[16:49:38] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_item_abilities.mixins.json:FishingHookRendererMixin from mod porting_lib_item_abilities
+[16:49:38] [main/WARN]: Error loading class: dev/emi/emi/screen/RecipeScreen (java.lang.ClassNotFoundException: dev/emi/emi/screen/RecipeScreen)
+[16:49:38] [main/WARN]: @Mixin target dev.emi.emi.screen.RecipeScreen was not found ali.emi.mixins.json:MixinRecipeScreen from mod ali
+[16:49:39] [main/WARN]: Error loading class: net/minecraft/class_638$class_5271 (java.lang.ClassNotFoundException: net/minecraft/class_638$class_5271)
+[16:49:39] [main/WARN]: @Mixin target net.minecraft.class_638$class_5271 was not found cavedust.mixins.json:ClientWorldAccessor from mod cavedust
+[16:49:39] [main/WARN]: Error loading class: net/minecraft/class_340 (java.lang.ClassNotFoundException: net/minecraft/class_340)
+[16:49:39] [main/WARN]: @Mixin target net.minecraft.class_340 was not found cavedust.mixins.json:MixinDebugScreenOverlay from mod cavedust
+[16:49:39] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[16:49:39] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[16:49:39] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[16:49:39] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[16:49:39] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[16:49:39] [main/WARN]: Error loading class: net/blay09/mods/cookingforblockheads/block/entity/ModBlockEntities (java.lang.ClassNotFoundException: net/blay09/mods/cookingforblockheads/block/entity/ModBlockEntities)
+[16:49:39] [main/WARN]: @Mixin target net.blay09.mods.cookingforblockheads.block.entity.ModBlockEntities was not found pfm.mixins.json:PFMCFBModBlockEntitiesMixin from mod pfm
+[16:49:39] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/entity/CookingPotBlockEntity (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/entity/CookingPotBlockEntity)
+[16:49:39] [main/WARN]: Error loading class: net/minecraft/class_638 (java.lang.ClassNotFoundException: net/minecraft/class_638)
+[16:49:39] [main/WARN]: @Mixin target net.minecraft.class_638 was not found porting_lib_level_events.mixins.json:client.ClientLevelMixin from mod porting_lib_level_events
+[16:49:39] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[16:49:42] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[16:49:46] [main/INFO]: Vanilla bootstrap took 5761 milliseconds
+[16:49:46] [main/INFO]: Setting up compat modules for Accessories!
+[16:49:46] [main/INFO]: Registered Trinkets Reloaded Listeners
+[16:49:46] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[16:49:46] [main/INFO]: Registered ALI plugin [ali] com.yanny.ali.plugin.Plugin
+[16:49:46] [main/INFO]: Registered ALI plugin [porting_lib_loot] com.yanny.ali.fabric.plugin.mods.porting_lib.loot.Plugin
+[16:49:46] [main/INFO]: Found 2 plugin(s)
+[16:49:46] [main/INFO]: Registering common plugin data...
+[16:49:46] [main/INFO]: Created new configuration file ./config/ali/ali_common.json
+[16:49:46] [main/INFO]: Loading configuration file ./config/ali/ali_common.json
+[16:49:46] [main/INFO]: Registered 1 entity variants
+[16:49:46] [main/INFO]: Registering common plugin data finished
+[16:49:46] [main/INFO]: [Animal Feeding Trough] Load Complete! Enjoy :D
+[16:49:46] [main/INFO]: Reflections took 32 ms to scan 1 urls, producing 1 keys and 2 values
+[16:49:47] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[16:49:47] [main/INFO]: Creating directory for additional Better Desert Temples configuration at /workspaces/vigilant-giggle/servidor_minecraft/config/betterdeserttemples/fabric-1_21
+[16:49:47] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[16:49:47] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[16:49:47] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[16:49:47] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[16:49:47] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[16:49:47] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[16:49:47] [main/INFO]: Creating directory for additional Better Nether Fortresses configuration at /workspaces/vigilant-giggle/servidor_minecraft/config/betterfortresses/fabric-1_21
+[16:49:47] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[16:49:47] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[16:49:47] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[16:49:47] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[16:49:47] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[16:49:47] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[16:49:47] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[16:49:47] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[16:49:47] [main/INFO]: Creating directory for additional Better Strongholds configuration at /workspaces/vigilant-giggle/servidor_minecraft/config/betterstrongholds/fabric-1_21
+[16:49:47] [main/INFO]: Welcome! ./config/libraryferret_1.properties created and initialized with default value
+[16:49:47] [main/INFO]: Welcome! ./config/bettervillage_1.properties created and initialized with default value
+[16:49:47] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[16:49:47] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
+[16:49:47] [main/INFO]: Constructing common components for easyanvils:main
+[16:49:47] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
+[16:49:47] [main/INFO]: Constructing common components for easymagic:main
+[16:49:47] [main/INFO]: Dispatching loading event for config easymagic-common.toml
+[16:49:47] [main/INFO]: Config file 'config/friendsandfoes.json' does not exist. Creating it with default values.
+[16:49:47] [main/INFO]: Serializing class com.faboslav.friendsandfoes.common.config.FriendsAndFoesConfig to 'config/friendsandfoes.json'
+[16:49:47] [main/INFO]: Initializing Gravestones
+[16:49:47] [main/INFO]: Config file for mod 'gravestones' does not exist. Creating new one with default values...
+[16:49:47] [main/ERROR]: No data fixer registered for gravestone_skeleton
+[16:49:47] [main/INFO]: Constructing common components for hangglider:main
+[16:49:47] [main/INFO]: Initializing JamLib on Fabric
+[16:49:47] [main/INFO]: Initialize mod Library Ferret
+[16:49:47] [main/INFO]: Initialized mod Library Ferret
+[16:49:48] [main/INFO]: [STDOUT]: No matching files were found.
+[16:49:48] [main/INFO]: Loading Noisium.
+[16:49:48] [main/INFO]: Noaaan: I'm talking to my inner demons. Which is all of you
+[16:49:48] [main/INFO]: Registering pfm components
+[16:49:48] [main/ERROR]: No data fixer registered for chair
+[16:49:48] [main/INFO]: Initializing PneumonoCore
+[16:49:48] [main/INFO]: Constructing common components for puzzleslib:main
+[16:49:48] [main/INFO]: Updated config file at /workspaces/vigilant-giggle/servidor_minecraft/config/rightclickharvest.json5
+[16:49:48] [main/INFO]: Updated config file at /workspaces/vigilant-giggle/servidor_minecraft/config/rightclickharvest.json5
+[16:49:48] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[16:49:48] [main/ERROR]: No data fixer registered for 
+[16:49:48] [main/INFO]: Config file 'config/takesapillage.json' does not exist. Creating it with default values.
+[16:49:48] [main/INFO]: Serializing class com.izofar.takesapillage.common.config.ItTakesPillageConfig to 'config/takesapillage.json'
+[16:49:49] [main/INFO]: [STDOUT]: TxniLib onInitialize!
+[16:49:49] [main/INFO]: Constructing common components for visualworkbench:main
+[16:49:49] [main/INFO]: Dispatching loading event for config visualworkbench-common.toml
+[16:49:49] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
+[16:49:49] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[16:49:49] [main/WARN]: Found block type with duplicate id (minecraft:oak), skipping
+[16:49:49] [ForkJoinPool.commonPool-worker-1/INFO]: [Paladin's Furniture Update Check] Is up to date!
+[16:49:49] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:49:50] [main/INFO]: Found new data pack accessories, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack advancednetherite, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack animal_feeding_trough, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack balm, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack beekeeperhut, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack betterdeserttemples, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack betterdungeons, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack betterendisland, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack betterfortresses, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack betterjungletemples, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack bettermineshafts, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack betteroceanmonuments, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack betterstrongholds, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack bettervillage, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack betterwitchhuts, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack carryon, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack charmofundying, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack comforts, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack cristellib:runtime_pack, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack disenchanting_table, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack easyanvils, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack easymagic, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack elytraslot, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack explorerscompass, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack fabric, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack flowerymooblooms, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack friendsandfoes, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack gravestones, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack hangglider, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack immersivelanterns, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack libraryferret, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack lithostitched, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack mcwlights, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack mr_dungeons_andtaverns, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack mr_ly_veinminerenchantment, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack mr_smelting_enchantment, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack naturescompass, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack patchouli, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack pfm, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack pfm-data-resources, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack porting_lib_item_abilities, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack rightclickharvest, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack sophisticatedbackpacks, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack sophisticatedcore, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack sophisticatedstorage, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack t_and_t, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack t_and_t:resources/t_and_t_waystones_patch, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack takesapillage, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack tectonic:tectonic, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack terrablender, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack terralith, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack trinkets, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack visualworkbench, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack waystones, loading it automatically
+[16:49:50] [main/INFO]: Found new data pack yungsapi, loading it automatically
+[16:49:50] [main/INFO]: Starting PFM Data Generation
+[16:49:50] [main/ERROR]: Provider failed with exception: java.lang.NoSuchMethodError: 'net.minecraft.class_2960 net.minecraft.class_8790.getRecipeIdentifier(net.minecraft.class_2960)'
+[16:49:50] [main/INFO]: [STDERR]: java.lang.NoSuchMethodError: 'net.minecraft.class_2960 net.minecraft.class_8790.getRecipeIdentifier(net.minecraft.class_2960)'
+[16:49:50] [main/INFO]: [STDERR]: 	at knot//net.minecraft.class_2447.localvar$zmh000$fabric-data-generation-api-v1$modifyRecipeId(class_2447.java:539)
+[16:49:50] [main/INFO]: [STDERR]: 	at knot//net.minecraft.class_2447.method_17972(class_2447.java)
+[16:49:50] [main/INFO]: [STDERR]: 	at knot//com.unlikepaladin.pfm.runtime.data.PFMRecipeProvider.offerHerringbonePlanks(PFMRecipeProvider.java:449)
+[16:49:50] [main/INFO]: [STDERR]: 	at knot//com.unlikepaladin.pfm.runtime.data.PFMRecipeProvider.generateRecipes(PFMRecipeProvider.java:198)
+[16:49:50] [main/INFO]: [STDERR]: 	at knot//com.unlikepaladin.pfm.runtime.data.PFMRecipeProvider.run(PFMRecipeProvider.java:86)
+[16:49:50] [main/INFO]: [STDERR]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+[16:49:50] [main/INFO]: [STDERR]: 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+[16:49:50] [main/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[16:49:50] [main/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[16:49:50] [main/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[16:49:50] [main/INFO]: Data providers took: 436 ms
+[16:49:51] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[16:49:51] [main/ERROR]: key missing: bei_ExtraDragonFight in {BorderCenterX:0.0d,BorderCenterZ:0.0d,BorderDamagePerBlock:0.2d,BorderSafeZone:5.0d,BorderSize:5.9999968E7d,BorderSizeLerpTarget:5.9999968E7d,BorderSizeLerpTime:0L,BorderWarningBlocks:5.0d,BorderWarningTime:15.0d,CustomBossEvents:{},DataPacks:{Disabled:["bundle","trade_rebalance"],Enabled:["vanilla"]},DataVersion:3955,DayTime:5122L,Difficulty:1b,DifficultyLocked:0b,DragonFight:{DragonKilled:0b,Gateways:[I;15,8,5,14,16,17,10,4,1,11,13,2,19,12,6,0,7,3,18,9],NeedsStateScanning:1b,PreviouslyKilled:0b},GameRules:{announceAdvancements:"true",blockExplosionDropDecay:"true",commandBlockOutput:"true",commandModificationBlockLimit:"32768",disableElytraMovementCheck:"false",disableRaids:"false",doDaylightCycle:"true",doEntityDrops:"true",doFireTick:"true",doImmediateRespawn:"false",doInsomnia:"true",doLimitedCrafting:"false",doMobLoot:"true",doMobSpawning:"true",doPatrolSpawning:"true",doTileDrops:"true",doTraderSpawning:"true",doVinesSpread:"true",doWardenSpawning:"true",doWeatherCycle:"true",drowningDamage:"true",enderPearlsVanishOnDeath:"true",fallDamage:"true",fireDamage:"true",forgiveDeadPlayers:"true",freezeDamage:"true",globalSoundEvents:"true",keepInventory:"false",lavaSourceConversion:"false",logAdminCommands:"true",maxCommandChainLength:"65536",maxCommandForkCount:"65536",maxEntityCramming:"24",mobExplosionDropDecay:"true",mobGriefing:"true",naturalRegeneration:"true",playersNetherPortalCreativeDelay:"1",playersNetherPortalDefaultDelay:"80",playersSleepingPercentage:"100",projectilesCanBreakBlocks:"true",randomTickSpeed:"3",reducedDebugInfo:"false",sendCommandFeedback:"true",showDeathMessages:"true",snowAccumulationHeight:"1",spawnChunkRadius:"2",spawnRadius:"10",spectatorsGenerateChunks:"true",tntExplosionDropDecay:"false",universalAnger:"false",waterSourceConversion:"true"},GameType:0,LastPlayed:1778687289690L,LevelName:"world",ScheduledEvents:[],ServerBrands:["fabric"],SpawnAngle:0.0f,SpawnX:-48,SpawnY:103,SpawnZ:-16,Time:5122L,Version:{Id:3955,Name:"1.21.1",Series:"main",Snapshot:0b},WanderingTraderSpawnChance:25,WanderingTraderSpawnDelay:19200,WasModded:1b,WorldGenSettings:{bonus_chest:0b,dimensions:{"minecraft:overworld":{generator:{biome_source:{preset:"minecraft:overworld",type:"minecraft:multi_noise"},settings:"minecraft:overworld",type:"minecraft:noise"},type:"minecraft:overworld"},"minecraft:the_end":{generator:{biome_source:{type:"minecraft:the_end"},settings:"minecraft:end",type:"minecraft:noise"},type:"minecraft:the_end"},"minecraft:the_nether":{generator:{biome_source:{preset:"minecraft:nether",type:"minecraft:multi_noise"},settings:"minecraft:nether",type:"minecraft:noise"},type:"minecraft:the_nether"}},generate_features:1b,seed:2588363538440338356L},allowCommands:0b,clearWeatherTime:0,hardcore:0b,initialized:1b,rainTime:14094,raining:0b,thunderTime:61373,thundering:0b,version:19133}
+[16:49:51] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:predicate/veinminer_enchantment:magnetic - Failed to parse either. First: Not a tag id; Second: Failed to parse either. First: Not a json array: "magnetic_enchantment:magnetic"; Second: Failed to get element magnetic_enchantment:magnetic missed input: {"minecraft:enchantments":[{"enchantments":"magnetic_enchantment:magnetic"}]}
+[16:49:52] [Worker-Main-3/INFO]: All Tags to be dealt with: [accessories:belt, accessories:charm, accessories:cape, accessories:back]
+[16:49:52] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [accessories:belt] to [trinkets:legs/belt]: 
+     [minecraft:lantern (from immersivelanterns), minecraft:soul_lantern (from immersivelanterns)]
+[16:49:52] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:charm/charm] to [accessories:charm]: 
+     [minecraft:totem_of_undying (from charmofundying), biomemakeover:enchanted_totem? (from charmofundying), fwaystones:void_totem? (from charmofundying), netheriteextras:totem_of_neverdying? (from charmofundying), #friendsandfoes:totems (from friendsandfoes), minecraft:totem_of_undying (from friendsandfoes), biomemakeover:enchanted_totem? (from friendsandfoes), voidtotem:totem_of_void_undying? (from friendsandfoes), #voidtotem:additional_totems? (from friendsandfoes), fwaystones:void_totem? (from friendsandfoes), netheriteextras:totem_of_neverdying? (from friendsandfoes)]
+[16:49:52] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:chest/cape] to [accessories:cape]: 
+     [#elytraslot:elytra (from elytraslot)]
+[16:49:52] [Worker-Main-3/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:chest/back] to [accessories:back]: 
+     [sophisticatedbackpacks:backpack (from sophisticatedbackpacks), sophisticatedbackpacks:copper_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:iron_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:gold_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:diamond_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:netherite_backpack (from sophisticatedbackpacks)]
+[16:49:52] [main/INFO]: Loaded 2115 recipes
+[16:49:52] [main/ERROR]: Failed to load function veinminer_enchantment:veinminer/magnetic
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Failed to parse structure: Failed to get element ResourceKey[minecraft:predicate / veinminer_enchantment:magnetic] at position 57: ...t:magnetic<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Failed to parse structure: Failed to get element ResourceKey[minecraft:predicate / veinminer_enchantment:magnetic] at position 57: ...t:magnetic<--[HERE]
+	at knot/net.minecraft.class_2158.method_9195(class_2158.java:80) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_5349.method_29451(class_5349.java:89) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[16:49:53] [main/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[16:49:53] [main/INFO]: Loaded 2093 advancements
+[16:49:53] [main/INFO]: Loaded 17 moobloom variants
+[16:49:53] [main/INFO]: Loaded 32 entity animations
+[16:49:53] [main/WARN]: Initial datapack load took 3.388 s
+[16:49:53] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[16:49:53] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[16:49:53] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[16:49:53] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[16:49:53] [main/INFO]: Applied 526 biome modifications to 158 of 160 new biomes in 31.07 ms
+[16:49:53] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
+[16:49:53] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
+[16:49:53] [Server thread/INFO]: Dispatching loading event for config hangglider-server.toml
+[16:49:53] [Server thread/INFO]: Sent config sync packet to 0 player(s)
+[16:49:53] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:49:53] [Server thread/INFO]: Loading properties
+[16:49:53] [Server thread/INFO]: Default game type: SURVIVAL
+[16:49:53] [Server thread/INFO]: Generating keypair
+[16:49:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:49:53] [Server thread/INFO]: Using epoll channel type
+[16:49:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:49:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:49:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:49:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:49:53] [Server thread/INFO]: Preparing level "world"
+[16:49:54] [Server thread/INFO]: Registering server plugin data...
+[16:49:54] [Server thread/INFO]: Registered ALI plugin [ali] com.yanny.ali.plugin.Plugin
+[16:49:54] [Server thread/INFO]: Registered ALI plugin [porting_lib_loot] com.yanny.ali.fabric.plugin.mods.porting_lib.loot.Plugin
+[16:49:54] [Server thread/INFO]: Found 2 plugin(s)
+[16:49:54] [Server thread/INFO]: Registered 8 entry item collectors
+[16:49:54] [Server thread/INFO]: Registered 2 function item collectors
+[16:49:54] [Server thread/INFO]: Registered 6 number converters
+[16:49:54] [Server thread/INFO]: Registered 8 entry factories
+[16:49:54] [Server thread/INFO]: Registered 40 function tooltips
+[16:49:54] [Server thread/INFO]: Registered 20 condition tooltips
+[16:49:54] [Server thread/INFO]: Registered 1 ingredient tooltips
+[16:49:54] [Server thread/INFO]: Registered 14 item sub predicate tooltips
+[16:49:54] [Server thread/INFO]: Registered 19 entity sub predicate tooltips
+[16:49:54] [Server thread/INFO]: Registered 57 data component type tooltips
+[16:49:54] [Server thread/INFO]: Registered 3 chance modifiers
+[16:49:54] [Server thread/INFO]: Registered 4 count modifiers
+[16:49:54] [Server thread/INFO]: Registered 15 item stack modifiers
+[16:49:54] [Server thread/INFO]: Registered 0 loot modifiers
+[16:49:54] [Server thread/INFO]: Registered 11 item listing factories
+[16:49:54] [Server thread/INFO]: Registering server plugin data finished
+[16:49:54] [Server thread/INFO]: Started reading loot info
+[16:49:55] [Server thread/WARN]: Failed to create entity: entity.minecraft.player (NULL)
+[16:49:56] [Server thread/INFO]: Skipped 42 empty or hidden loot tables and 35 injected loot tables
+[16:49:56] [Server thread/WARN]: No trades defined for minecraft:nitwit
+[16:49:56] [Server thread/WARN]: No trades defined for friendsandfoes:beekeeper
+[16:49:56] [Server thread/WARN]: No trades defined for minecraft:none
+[16:49:56] [Server thread/INFO]: Processing 3334 loot tables and 14 trades took 1799ms
+[16:49:57] [Server thread/INFO]: Compressed loot data (5.15 MB -> 0.29 MB) and stored in 10 chunk(s)
+[16:49:57] [Server thread/WARN]: Missing function tooltip for net.p3pp3rf1y.sophisticatedstorage.data.CopyStorageDataFunction
+[16:49:57] [Server thread/WARN]: Missing function tooltip for net.p3pp3rf1y.sophisticatedbackpacks.data.CopyBackpackDataFunction
+[16:50:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:50:12] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
+[16:50:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:50:13] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[16:50:13] [Worker-Main-1/INFO]: Preparing spawn area: 36%
+[16:50:13] [Server thread/INFO]: Time elapsed: 1151 ms
+[16:50:13] [Server thread/INFO]: Done (19.928s)! For help, type "help"
+[16:50:13] [Server thread/WARN]: Dedicated server took 47.072 seconds to load
+[16:50:13] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[16:51:00] [Server thread/INFO]: Roose502[/127.238.139.80:43969] logged in with entity id 274 at (-32.38396484354648, 101.0, 4.501929419662183)
+[16:51:00] [Server thread/INFO]: Sending server config values to client
+[16:51:00] [Server thread/INFO]: Started syncing loot info to Roose502
+[16:51:00] [Server thread/INFO]: Finished syncing loot info to Roose502
+[16:51:00] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[16:51:00] [Server thread/INFO]: Roose502 joined the game
+[16:51:01] [Server thread/INFO]: Receiving client config
+[16:52:07] [Server thread/WARN]: Roose502 moved too quickly! -5.54933196572717,3.249187078744683,7.696956407602784
+[16:52:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2555ms or 51 ticks behind
+[16:56:30] [Server thread/INFO]: Roose502 has made the advancement [Stone Age]
+[16:59:09] [Server thread/INFO]: Roose502 lost connection: Disconnected
+[16:59:09] [Server thread/INFO]: Roose502 left the game
+[16:59:14] [Server thread/INFO]: Stopping the server
+[16:59:14] [Server thread/INFO]: Deregistering server plugin data...
+[16:59:14] [Server thread/INFO]: Deregistering server plugin data finished
+[16:59:14] [Server thread/INFO]: Stopping server
+[16:59:14] [Server thread/INFO]: Saving players
+[16:59:14] [Server thread/INFO]: Saving worlds
+[16:59:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:59:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:59:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:59:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:59:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:59:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:59:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:59:14] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[16:59:14] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
+[16:59:14] [Server thread/INFO]: Dispatching unloading event for config hangglider-server.toml
